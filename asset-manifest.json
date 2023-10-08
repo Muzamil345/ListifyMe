@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ListifyMe/static/css/main.15425234.css",
+    "main.js": "/ListifyMe/static/js/main.50e07886.js",
+    "index.html": "/ListifyMe/index.html",
+    "main.15425234.css.map": "/ListifyMe/static/css/main.15425234.css.map",
+    "main.50e07886.js.map": "/ListifyMe/static/js/main.50e07886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15425234.css",
+    "static/js/main.50e07886.js"
+  ]
+}
